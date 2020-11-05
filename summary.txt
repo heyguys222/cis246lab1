@@ -1,2 +1,11 @@
 Lab 2 summary
 
+The first difference between the Ubuntu machine and CentOS machine are how ls does not 
+return the same directories since they contain different files/directories.
+Another difference is how uname -n returns CentOS rather than localhost.
+The rm command when used in CentOS asks for a yes or no response while the Ubuntu machine does not.
+When using the command echo "something new!!" , ubuntu returns
+something newls
+while CentOS returns: 
+echo something newls 
+something newls
